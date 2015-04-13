@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-capfunc.py (A supportive module Created by Harsh Dattani <github.com/harhsdattani> used to make capture.py a bit small) 
+capfunc.py (A supportive module Created by Harsh Dattani <github.com/harshdattani> used to make capture.py a bit small) 
 '''
 
 import pcapy
